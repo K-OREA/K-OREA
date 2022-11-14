@@ -8,3 +8,4 @@
 K-OREA/K-OREA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+It's just a simple weather crawling program.(from NAVER Weatherforcast)
